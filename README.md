@@ -26,4 +26,5 @@
 
 # 环星语翻译器
 [CSDN](https://download.csdn.net/download/Y3808080/89666845)
+
 [123PAN](https://www.123pan.com/s/yw4YTd-2J5Pv)
