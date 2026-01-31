@@ -1,1 +1,2 @@
-* NOTHING HERE NOW *
+.txt 文件：AI提示词，直接点击文件，打开后点左上角的 Preview 预览
+.docx 文件：生成结果，下载后打开阅览
